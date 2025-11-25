@@ -47,8 +47,9 @@ Afrikaans, Albanian, Amharic, Arabic, Armenian, Assamese, Aymara, Azerbaijani, B
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multilanguage-translator.git
-cd multilanguage-translator
+git clone https://github.com/sayantanr/Multi-language-translator-transliterator-MLTT.git
+cd Multi-language-translator-transliterator-MLTT
+
 ```
 
 2. Install dependencies:
@@ -249,5 +250,6 @@ Unlike other translation tools, this app offers:
 5. **AI-Powered**: Leverages advanced Claude AI for accurate results
 
 ---
+
 
 Made with ❤️ by the community
